@@ -4,6 +4,8 @@ module.exports = {
   theme: {
     extend: {
       colors: {
+        // Add custom colors here
+
         papayawhip: {
           light: '#fef4e4',
           DEFAULT: '#ffefd5',
